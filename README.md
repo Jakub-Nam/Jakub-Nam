@@ -1,5 +1,5 @@
 ### Hi there 👋
-### <img src="majeczka/105019244_323606331980963_3184039254788011595_n.jpg" width="400px" >
+<img src="majeczka/105019244_323606331980963_3184039254788011595_n.jpg" width="400px" >
 <!--
 **Jakub-Nam/Jakub-Nam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
