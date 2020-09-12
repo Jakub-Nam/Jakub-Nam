@@ -1,4 +1,5 @@
-### <img src="images/guy-with-cloud.png" width="400px">
+Hello there!
+Below you can see technologies Which I am familiar with.
 
 <img src='https://img.shields.io/static/v1.svg?label=&message=Javascript&color=EFD81D'> <img src='https://img.shields.io/static/v1.svg?label=&message=Typescript&color=0076C6'> <img src='https://img.shields.io/static/v1.svg?label=&message=Angular&color=D6002F'>  <img src='https://img.shields.io/static/v1.svg?label=&message=CSS&color=0E70B7'>  <img src='https://img.shields.io/static/v1.svg?label=&message=Sass&color=CF649A'> <img src='https://img.shields.io/static/v1.svg?label=&message=Bootstrap&color=533B78'>
 
