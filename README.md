@@ -5,5 +5,3 @@ Below you can see the technologies I am familiar with.
 
 <img src='https://img.shields.io/static/v1.svg?label=&message=npm&color=C23435'> <img src='https://img.shields.io/static/v1.svg?label=&message=Firebase&color=F7A00E'> <img src='https://img.shields.io/static/v1.svg?label=&message=Git&color=E14C2F'>  <img src='https://img.shields.io/static/v1.svg?label=&message=GitHub&color=323131'> <img src='https://img.shields.io/static/v1.svg?label=&message=gulp&color=CF4D4D'>  <img src='https://img.shields.io/static/v1.svg?label=&message=gimp&color=575141'> <img src='https://img.shields.io/static/v1.svg?label=&message=Figma&color=000000'>
 
-
-#OpenToWork
